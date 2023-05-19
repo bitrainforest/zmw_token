@@ -1,0 +1,10 @@
+{
+    "program": "zmw_token.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "",
+        "address": "aleo1zmwgtsyg9cmk528g40r436dhdt65ytqu3n36q48c3vl0f2hmtqqqg5x7sk"
+    },
+    "license": "MIT"
+}
